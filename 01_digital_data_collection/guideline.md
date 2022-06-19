@@ -17,6 +17,8 @@
 
 - Suhem from Twitter will introduce you to Academic Twitter API later on. 
 
+- APIs for Social Scientists: https://bookdown.org/paul/apis_for_social_scientists/
+
 4. Write code to collect data from each unit of analysis in your sample (e.g. tweets of elected officials)
 
 5. (if you have time) Evaluate the strengths and weaknesses of the data you have collected

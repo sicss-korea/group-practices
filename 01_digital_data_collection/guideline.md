@@ -31,7 +31,7 @@
 
 The following advice is borrowed from SCISS-Bamberg (Germany).
 
-1. The group member with the least coding experience should write the scraping code. Of course, other members can assist if necessary. 
+1. The group member with the least coding experience should **type** (nor **write**) the scraping code. Of course, other members can assist if necessary. 
 
 2. A group does not need to follow the above steps chronologically. 
 

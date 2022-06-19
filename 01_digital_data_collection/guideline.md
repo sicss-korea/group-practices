@@ -9,6 +9,8 @@
 
 2. Identify a sampling frame to help you answer this research question. For example, if your question is about politics, your sampling frame might be a list of elected officials on Twitter;
 
+- Potential alternative data sources for practice: (1) New York Times API (quicker to get approved), (2) United Nations Human Rights Council (https://www.ohchr.org/en/hr-bodies/hrc/regular-sessions)
+
 3. Use legal screen-scraping techniques in order to collect the names of individual accounts, keywords, or topic areas to populate your sample.
 
 - Chris Bail's code on screen-craping: https://sicss.io/2020/materials/day2-digital-trace-data/screenscraping/rmarkdown/Screenscraping.html

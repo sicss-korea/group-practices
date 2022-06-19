@@ -23,7 +23,7 @@
 
 6. (if you have time) Outline a hybrid research design (e.g. an app or a bot, a supplemental online survey, or other qualitative methods) that could be used to address the weaknesses of the data you collected, or otherwise improve your ability to answer the research question.
 
-**Notes**
+**Recommended practice**
 
 The following advice is borrowed from SCISS-Bamberg (Germany).
 

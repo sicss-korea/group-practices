@@ -1,0 +1,1 @@
+Link: https://sicss.io/2021/materials/day3-text-analysis/Group-Exercise-Day-3.html

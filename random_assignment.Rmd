@@ -1,0 +1,37 @@
+---
+title: "Random assignment"
+date: "SICSS"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Reading the Google Sheets data
+
+
+```{r message = FALSE, echo=FALSE, warning = FALSE, error = FALSE}
+if(!require(pacman)) install.packages("pacman")
+
+pacman::p_load(googlesheets4, janitor, naniar, tidyverse, purrr, vegan)
+
+gs4_deauth()
+
+#link
+ss <- "https://docs.google.com/spreadsheets/d/1mnMF_hi7ieIOoExdNMV45DzLswGVLBX9g2rK7qkFBPY/edit?usp=sharing"
+
+#organizers, change the sheet name to your specific site here:
+dat <- read_sheet(ss, sheet = "participants") %>%
+  filter(!is.na(Name)) 
+
+names <- dat$Name %>% unique()
+
+# Randomly assign students into two groups
+set.seed(1234)
+
+group_id <- sample(rep(1:6, each = 3), 18, replace = FALSE)
+
+df <- data.frame(names = names, 
+                 id = group_id)
+```

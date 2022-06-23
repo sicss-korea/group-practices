@@ -2,11 +2,11 @@
 
 ## Discussion 
 
-1. How is prediction different from description or causation?
-2. Read the PNAS paper (https://www.pnas.org/doi/10.1073/pnas.1915006117) on the fragile family.
-3. Discuss the implications of the main research output: "the best predictions were not very accurate and were only slightly better than those from a simple benchmark model."
-4.1. Prediction is a function of what? (e.g., data quality, problem difficulty, algorithm performance) 
-4.2. Does the common task method help examine prediction's value in social science research? 
+* 1. How is prediction different from description or causation?
+* 2. Read the PNAS paper (https://www.pnas.org/doi/10.1073/pnas.1915006117) on the fragile family project.
+* 3. Discuss the implications of the main research output: "the best predictions were not very accurate and were only slightly better than those from a simple benchmark model."
+* 4.1. Prediction is a function of what? (e.g., data quality, problem difficulty, algorithm performance) 
+* 4.2. Does the common task method help examine prediction's value in social science research? 
 
 ## Group activity 
 
